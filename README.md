@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **React ,Next.js,Typescript**
   
-- 👨‍💻 All of my projects are available at [https://portfolio-two-khaki-i4mpllovsb.vercel.app/](https://portfolionew-neon-zeta.vercel.app/)
+- 👨‍💻 All of my projects are available at [Portfolio](https://portfolionew-neon-zeta.vercel.app/)
 - 📫 How to reach me **monupanwartech@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
